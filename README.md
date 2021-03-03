@@ -10,7 +10,7 @@ I'm a new softaware developer still learning a lots of new stuff about coding, I
 
 Im learning everything about HTML and CSS with microverse program.
 
-#Find me on the web on:
+# Find me on the web on:
   
 - GitHub: [@jaarkira](https://https://github.com/jaarkira)
 - Twitter: [@91_jaar](https://twitter.com/91_jaar)
