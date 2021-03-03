@@ -1,6 +1,6 @@
 # Hi, I'm JAAR
 
-<img src="https://github.com/JAAR91/JAAR91/blob/main/JOSE%20ARRIAGA.png">
+<img src="https://github.com/JAAR91/JAAR91/blob/main/JOSE%20ARRIAGA.png" styles="width=100%">
 
 # About me
 
