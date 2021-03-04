@@ -10,6 +10,11 @@ I'm a new softaware developer still learning a lots of new stuff about coding, I
 
 Im learning everything about HTML and CSS with microverse program.
 
+### Stats 📊
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JAAR91&count_private=true&show_icons=true&theme=dark&hide_border=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAAR91&theme=dark&langs_count=10&hide_border=true&layout=compact">
+</p>
+
 # Find me on the web on:
   
 - GitHub: [@jaarkira](https://https://github.com/jaarkira)
