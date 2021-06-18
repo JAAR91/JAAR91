@@ -10,11 +10,11 @@ I'm a full-stack software developer and enjoy coding and love to learn new stuff
 
 Im learning Javascript on the Microverse program.
 
-[![JAAR's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaar91&show_icons=true&count_private=true&theme=gotham&card_width=200)](https://github.com/anuraghazra/github-readme-stats)
+[![JAAR's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaar91&show_icons=true&count_private=true&theme=gotham&card_width=900)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaar91&show_icons=true&theme=gotham&langs_count=10&card_width=200)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaar91&show_icons=true&theme=gotham&langs_count=10&card_width=900)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&show_icons=true&theme=gotham&card_width=200)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&show_icons=true&theme=gotham&card_width=900)](https://github.com/anuraghazra/github-readme-stats)
 
 # Find me on the web on:
   
