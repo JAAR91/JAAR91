@@ -4,11 +4,11 @@
 
 # About me
 
-I'm a new softaware developer still learning a lots of new stuff about coding, I enjoy coding and want to become a top of the line software developer. Some technologie I can use at the moment are PHP, C#, C++ and HTML. I used to be a game moder on steam for a game called KILLING FLOOR(by the way I learned to code it just by reverse engineering, it was fun).
+I'm a full-stack software developer and enjoy coding and love to learn new stuff and new coding languages. At the moment I can use HTML, SCSS, ruby, ruby on rails, javascript, C#, and unreal script. I love to play the drums, the guitar, and cooking. But one of the things I like the most is playing video games, which is one of the reasons I learned Unreal Script because I created my own modified server with new gaming modes for a game called Killing Floor.
 
 # I'm currently
 
-Im learning everything about HTML and CSS with microverse program.
+Im learning Javascript on the Microverse program.
 
 ### Stats 📊
 <p align="center">
@@ -19,5 +19,6 @@ Im learning everything about HTML and CSS with microverse program.
   
 - GitHub: [@jaarkira](https://https://github.com/jaarkira)
 - Twitter: [@91_jaar](https://twitter.com/91_jaar)
-- LinkedIn: [LinkedIn](https://https://www.linkedin.com/in/jose-arriaga-63a851204/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jaar/)
+- AngelList: [jaar91](https://angel.co/u/jaar91)
   
