@@ -17,6 +17,9 @@ Im learning Javascript on the Microverse program.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAAR91&theme=dark&langs_count=10&hide_border=true&layout=compact" style="width:100%;">
 </div>
 
+[![JAAR's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaar91)](https://github.com/anuraghazra/github-readme-stats)
+
+
 # Find me on the web on:
   
 - GitHub: [@jaarkira](https://https://github.com/jaarkira)
