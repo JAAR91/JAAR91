@@ -1,6 +1,6 @@
 # Hi, I'm JAAR
 
-<img src="https://github.com/JAAR91/JAAR91/blob/main/JOSE%20ARRIAGA.png" style="width: 150%;">
+<img src="https://github.com/JAAR91/JAAR91/blob/main/JOSE%20ARRIAGA.png" style="width:100%;">
 
 # About me
 
@@ -11,9 +11,11 @@ I'm a full-stack software developer and enjoy coding and love to learn new stuff
 Im learning Javascript on the Microverse program.
 
 ### Stats 📊
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JAAR91&count_private=true&show_icons=true&theme=dark&hide_border=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAAR91&theme=dark&langs_count=10&hide_border=true&layout=compact">
-</p>
+<div style="width:100%; display = flex; flex-direction = column; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=JAAR91&count_private=true&show_icons=true&theme=dark&hide_border=true" style="width:100%;">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAAR91&theme=dark&langs_count=10&hide_border=true&layout=compact" style="width:100%;">
+</div>
 
 # Find me on the web on:
   
