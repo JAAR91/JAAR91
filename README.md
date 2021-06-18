@@ -1,5 +1,8 @@
 # Hi, I'm JAAR
 
+![alt text](banner.png)
+
+![banner](banner.png)
 
 <div style="background-image= url('banner.png');width=100%;height=400px;border=1px solid red;">
     
