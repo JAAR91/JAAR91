@@ -1,11 +1,11 @@
 # Hi, I'm JAAR
 
 
-<div style="background-image: url('banner.png');width:100%;height:400px;border:1px solid red;">
+<div style="background-image= url('banner.png');width=100%;height=400px;border=1px solid red;">
     
 </div>
 
-<img src="banner.png" style="min-width: 100%;">
+<img src="banner.png" style="width=100%;">
 
 # About me
 
