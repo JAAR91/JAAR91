@@ -1,7 +1,7 @@
 # Hi, I'm JAAR
 
 
-<div style="background-color: url('banner.png');width=100%;height: 400px;">
+<div style="background-image: url('banner.png');width:100%;height:400px;border:1px solid red;">
     
 </div>
 
