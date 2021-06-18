@@ -11,7 +11,7 @@ I'm a full-stack software developer and enjoy coding and love to learn new stuff
 Im learning Javascript on the Microverse program.
 
 ### Stats 📊
-<div style="width:100%; display = flex; flex-direction = column; justify-content: center;">
+<div style="width:100%; border = 1px solid white;">
   <img src="https://github-readme-stats.vercel.app/api?username=JAAR91&count_private=true&show_icons=true&theme=dark&hide_border=true" style="width:100%;">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAAR91&theme=dark&langs_count=10&hide_border=true&layout=compact" style="width:100%;">
