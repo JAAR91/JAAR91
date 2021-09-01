@@ -4,7 +4,7 @@
 
 # About me
 
-I'm a full-stack software developer and enjoy coding and love to learn new stuff and new coding languages. At the moment I can use HTML, SCSS, ruby, ruby on rails, javascript, C#, and unreal script. I love to play the drums, the guitar, and cooking. But one of the things I like the most is playing video games, which is one of the reasons I learned Unreal Script because I created my own modified server with new gaming modes for a game called Killing Floor.
+I'm a full-stack software developer. I love to code, learn new things, and new technologies. I can use HTML, SCSS, ruby, ruby on rails, javascript, C#, and unreal script. I love to play the drums, the guitar, and cooking. But one of the things I like the most is playing video games, which is one of the reasons I learned Unreal Script because I created my own modified server with new gaming modes for a game called Killing Floor.
 
 # I'm currently
 
