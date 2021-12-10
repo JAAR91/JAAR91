@@ -31,14 +31,10 @@ A bit about me, I love to watch movies, play video games and music. I play the g
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jaar91&show_icons=true&count_private=true&theme=gotham&card_width=500" alt="STATS">
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaar91&show_icons=true&theme=gotham&langs_count=10&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
-
-  [Click here to see how to show your stats](https://github.com/anuraghazra/github-readme-stats)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaar91&show_icons=true&theme=gotham&langs_count=10&card_width=500" alt="languages">
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">Click here to see how to show your stats</a>
 </P>
 
-# I'm current
-
-Looking for a remoe job.
+<h3 align="center">I'm current</h3>
+<p align="center">Looking for a remoe job.</P>
   
