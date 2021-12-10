@@ -30,8 +30,10 @@ A bit about me, I love to watch movies, play video games and music. I play the g
 </p>
 
 <h2 align="center">Stats:</h2>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaar91&show_icons=true&count_private=true&theme=gotham" alt="STATS">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaar91&show_icons=true&theme=gotham&langs_count=5" alt="languages">
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaar91&show_icons=true&count_private=true&theme=gotham" alt="STATS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaar91&show_icons=true&theme=gotham&langs_count=5" alt="languages">
+</p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">Click here to see how to show your stats</a>
