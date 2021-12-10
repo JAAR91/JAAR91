@@ -4,11 +4,21 @@
 
 # About me
 
-I'm a full-stack software developer. I love to code, learn new things, and new technologies. I can use HTML, SCSS, ruby, ruby on rails, javascript, C#, and unreal script. I love to play the drums, the guitar, and cooking. But one of the things I like the most is playing video games, which is one of the reasons I learned Unreal Script because I created my own modified server with new gaming modes for a game called Killing Floor.
+Hello there, I am a full-stack software developer that loves to code. I am currently looking for a job that brings new challenges and lets me grow as a developer. I want to become a top-of-the-line software developer. 
 
-# I'm currently
+I enjoyed building websites and finding solutions for new problems. I can work on teams but prefer to work remotely.
 
-Im learning Javascript on the Microverse program.
+I just finished a 12-month program called Microverse, where I worked on projects with people from all around the world. Building websites with excellent UI using:
+- HTML
+- CSS
+- RUBY
+- RUBY ON RAILS
+- JAVASCRIPT
+- REACT AND REDUX
+
+I also know about using unit tests like Rspec for rails and jest for javascript.
+
+A bit about me, I love music. I play the guitar and the drums. I love cats, but for now, I have three dogs that I love too.
 
 [![JAAR's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaar91&show_icons=true&count_private=true&theme=gotham&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -22,4 +32,8 @@ Im learning Javascript on the Microverse program.
 - Twitter: [@91_jaar](https://twitter.com/91_jaar)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/jaar/)
 - AngelList: [jaar91](https://angel.co/u/jaar91)
+
+# I'm current
+
+Looking for a remoe job.
   
