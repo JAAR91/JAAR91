@@ -7,12 +7,15 @@ Hello there, I am a full-stack software developer that loves to code. I am curre
 I enjoyed building websites and finding solutions for new problems. I can work on teams but prefer to work remotely.
 
 I just finished a 12-month program called Microverse, where I worked on projects with people from all around the world. Building websites with excellent UI using:
-- HTML
-- CSS
-- RUBY
-- RUBY ON RAILS
-- JAVASCRIPT
-- REACT AND REDUX
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML-E89700" alt="html">
+  <img src="https://img.shields.io/badge/-CSS-005BBC" alt="CSS">
+  <img src="https://img.shields.io/badge/-RUBY-CF0300" alt="Ruby">
+  <img src="https://img.shields.io/badge/-RUBY%20ON%20RAILS-8C0200" alt="RubyonRails">
+  <img src="https://img.shields.io/badge/-JAVASCRIPT-DDDD3F" alt="javascript">
+  <img src="https://img.shields.io/badge/-REACT-00DEC9" alt="react">
+  <img src="https://img.shields.io/badge/-REDUX-C300DE" alt="redux">
+</p>
 
 I also know about using unit tests like Rspec for rails and jest for javascript.
 
