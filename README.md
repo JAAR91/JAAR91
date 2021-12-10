@@ -29,7 +29,7 @@ A bit about me, I love to watch movies, play video games and music. I play the g
   <a href="https://https://github.com/jaarkira" target="_blank"><img src="https://img.shields.io/badge/-GitHub-000000" alt="GitHub"></a>
 </p>
 
-<p align="center">
+<p align="center" styles="display:flex;flex-direction:column;">
   <img src="https://github-readme-stats.vercel.app/api?username=jaar91&show_icons=true&count_private=true&theme=gotham" alt="STATS">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaar91&show_icons=true&theme=gotham&langs_count=5" alt="languages">
 </p>
