@@ -1,5 +1,4 @@
-# Hello there, I'm JAAR
-
+<h2 align="center">Hello there, I'm JAAR</h2>
 ![banner](banner.png)
 
 # About me
