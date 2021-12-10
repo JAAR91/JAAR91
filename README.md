@@ -38,6 +38,7 @@ A bit about me, I love to watch movies, play video games and music. I play the g
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">Click here to see how to show your stats</a>
 </p>
+
 <h2 align="center">I'm currenttly:</h2>
 <p align="center">Looking for a remoe job.</p>
   
