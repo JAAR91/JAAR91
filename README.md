@@ -24,6 +24,8 @@ A bit about me, I love to watch movies, play video games and music. I play the g
 
   # Let's Connect:
 
+</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/jaar/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-blue" alt="LinkedIn"></a>
   <a href="https://twitter.com/91_jaar" target="_blank"><img src="https://img.shields.io/badge/-twitter-14E3D0" alt="Twitter"></a>
