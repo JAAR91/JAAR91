@@ -1,5 +1,5 @@
 <h2 align="center">Hello there, I'm JAAR</h2>
-![banner](banner.png)
+<img src="./banner.png" alt="banner">
 
 # About me
 
