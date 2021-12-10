@@ -29,14 +29,13 @@ A bit about me, I love to watch movies, play video games and music. I play the g
   <a href="https://https://github.com/jaarkira" target="_blank"><img src="https://img.shields.io/badge/-GitHub-000000" alt="GitHub"></a>
 </p>
 
-<p align="center" styles="display:flex;flex-direction:column;">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaar91&show_icons=true&count_private=true&theme=gotham" alt="STATS">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaar91&show_icons=true&theme=gotham&langs_count=5" alt="languages">
-</p>
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaar&hide=contribs,prs)
+<h2 align="center">Stats:</h2>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaar91&show_icons=true&count_private=true&theme=gotham" alt="STATS">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaar91&show_icons=true&theme=gotham&langs_count=5" alt="languages">
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">Click here to see how to show your stats</a>
 </p>
-<h3 align="center">I'm currenttly</h3>
+<h2 align="center">I'm currenttly:</h2>
 <p align="center">Looking for a remoe job.</p>
   
