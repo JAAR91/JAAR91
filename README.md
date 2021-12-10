@@ -20,7 +20,9 @@ I also know about using unit tests like Rspec for rails and jest for javascript.
 
 A bit about me, I love to watch movies, play video games and music. I play the guitar and the drums. I love cats, but for now, I have three dogs that I love too.
 
-# Let's Connect:
+<p align="center">
+
+  # Let's Connect:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jaar/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-blue" alt="LinkedIn"></a>
@@ -30,9 +32,11 @@ A bit about me, I love to watch movies, play video games and music. I play the g
 </p>
 
 <p align="center">
+
   [![JAAR's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaar91&show_icons=true&count_private=true&theme=gotham&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaar91&show_icons=true&theme=gotham&langs_count=10&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
+
 </p>
 
 # I'm current
