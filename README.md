@@ -40,5 +40,5 @@ A bit about me, I love to watch movies, play video games and music. I play the g
 </p>
 
 <h2 align="center">I'm currenttly:</h2>
-<p align="center">Looking for a remoe job.</p>
+<p align="center">Looking for a remote job.</p>
   
