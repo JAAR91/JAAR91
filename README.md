@@ -1,8 +1,9 @@
-<h1 align="center">Hello there, I'm JAAR</h1>
 <img src="./banner.png" alt="banner">
+<h1 align="center">Hello there, I'm JAAR</h1>
+
 <h2 align="center">About me</h2>
 
-Hello there, I am a full-stack software developer that loves to code. I am currently looking for a job that brings new challenges and lets me grow as a developer. I want to become a top-of-the-line software developer. 
+Hello there, I am a full-stack software developer that loves to code. I am currently working for Unique Vacations LTD. I am alwasy looking for new challenges that let me grow as a developer. I want to become a top-of-the-line software developer. 
 
 I enjoyed building websites and finding solutions for new problems. I can work on teams but prefer to work remotely.
 
@@ -15,6 +16,7 @@ I just finished a 12-month program called Microverse, where I worked on projects
   <img src="https://img.shields.io/badge/-JAVASCRIPT-DDDD3F" alt="javascript">
   <img src="https://img.shields.io/badge/-REACT-00DEC9" alt="react">
   <img src="https://img.shields.io/badge/-REDUX-C300DE" alt="redux">
+  <img src="https://img.shields.io/badge/-typescript-blue" alt="typescript">
 </p>
 
 I also know about using unit tests like Rspec for rails and jest for javascript.
