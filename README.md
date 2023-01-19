@@ -33,9 +33,9 @@ A bit about me, I love to watch movies, play video games and music. I play the g
 
 <h2 align="center">Stats:</h2>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaar91&show_icons=true&count_private=true&theme=gotham" alt="STATS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaar91&count_private=true&theme=gotham" alt="STATS">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaar91&show_icons=true&theme=gotham&langs_count=4&count_private=true" alt="languages">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaar91&theme=gotham&langs_count=4&count_private=true" alt="languages">
 </p>
 
 
