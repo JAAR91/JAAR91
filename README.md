@@ -48,7 +48,7 @@ A bit about me, I love to watch movies, play video games and music. I play the g
 
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=JAAR91&show_icons=true" />
- <img src="ttps://github-readme-stats.vercel.app/api/top-langs/?username=JAAR91" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAAR91" />
 </p>
 
 <p align="center">
