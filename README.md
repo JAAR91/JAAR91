@@ -38,8 +38,9 @@ A bit about me, I love to watch movies, play video games and music. I play the g
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaar91&show_icons=true&theme=gotham&langs_count=4&count_private=true" alt="languages">
 </p>
 
-![Jaar's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaar91&hide=contribs,prs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+
+![Jaar's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaar91&show_icons=true&count_private=true&theme=gotham)
+![Jaar's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaar91&show_icons=true&theme=gotham&langs_count=4&count_private=true)
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">Click here to see how to show your stats</a>
