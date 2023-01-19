@@ -33,17 +33,7 @@ A bit about me, I love to watch movies, play video games and music. I play the g
 
 <h2 align="center">Stats:</h2>
 <p align="center">
- <picture>
-   <source 
-     srcset="https://github-readme-stats.vercel.app/api?username=jaar91&show_icons=true&theme=dark"
-     media="(prefers-color-scheme: dark)"
-   />
-   <source
-     srcset="https://github-readme-stats.vercel.app/api?username=jaar91&show_icons=true"
-     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-   />
-   <img src="https://github-readme-stats.vercel.app/api?username=jaar91&show_icons=true" />
- </picture>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaar91)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 <p align="center">
