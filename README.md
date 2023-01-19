@@ -33,14 +33,18 @@ A bit about me, I love to watch movies, play video games and music. I play the g
 
 <h2 align="center">Stats:</h2>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaar91&count_private=true&theme=gotham" alt="STATS">
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaar91&theme=gotham&langs_count=4&count_private=true" alt="languages">
+ <picture>
+   <source 
+     srcset="https://github-readme-stats.vercel.app/api?username=jaar91&show_icons=true&theme=dark"
+     media="(prefers-color-scheme: dark)"
+   />
+   <source
+     srcset="https://github-readme-stats.vercel.app/api?username=jaar91&show_icons=true"
+     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+   />
+   <img src="https://github-readme-stats.vercel.app/api?username=jaar91&show_icons=true" />
+ </picture>
 </p>
-
-
-![Jaar's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaar91&show_icons=true&count_private=true)
-![Jaar's GitHub stats asdfa](https://github-readme-stats.vercel.app/api?username=jaar91&show_icons=true&langs_count=4&count_private=true)
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">Click here to see how to show your stats</a>
