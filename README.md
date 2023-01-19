@@ -16,7 +16,7 @@ I just finished a 12-month program called Microverse, where I worked on projects
   <img src="https://img.shields.io/badge/-JAVASCRIPT-DDDD3F" alt="javascript">
   <img src="https://img.shields.io/badge/-REACT-00DEC9" alt="react">
   <img src="https://img.shields.io/badge/-REDUX-C300DE" alt="redux">
-  <img src="https://img.shields.io/badge/-typescript-blue" alt="typescript">
+  <img src="https://img.shields.io/badge/-TypeScript-blue" alt="typescript">
 </p>
 
 I also know about using unit tests like Rspec for rails and jest for javascript.
@@ -44,6 +44,11 @@ A bit about me, I love to watch movies, play video games and music. I play the g
     />
     <img src="https://github-readme-stats.vercel.app/api?username=JAAR91&show_icons=true" />
   </picture>
+</p>
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=JAAR91&show_icons=true" />
+ <img src="ttps://github-readme-stats.vercel.app/api/top-langs/?username=JAAR91" />
 </p>
 
 <p align="center">
