@@ -3,11 +3,12 @@
 
 <h2 align="center">About me</h2>
 
-Hello there, I am a full-stack software developer that loves to code. I am currently working for Unique Vacations LTD. I am alwasy looking for new challenges that let me grow as a developer. I want to become a top-of-the-line software developer. 
+Hello there, I am a full-stack software developer that loves to code. I am currently working for Unique Vacations LTD. I am alwasy looking for new challenges that let me grow as a developer. I want to become a top-of-the-line software developer.
 
 I enjoyed building websites and finding solutions for new problems. I can work on teams but prefer to work remotely.
 
 I just finished a 12-month program called Microverse, where I worked on projects with people from all around the world. Building websites with excellent UI using:
+
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML-E89700" alt="html">
   <img src="https://img.shields.io/badge/-CSS-005BBC" alt="CSS">
@@ -34,11 +35,11 @@ A bit about me, I love to watch movies, play video games and music. I play the g
 <h2 align="center">Stats:</h2>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=JAAR91&show_icons=true&theme=dark" />
+ <img src="https://github-readme-stats.vercel.app/api?username=JAAR91&show_icons=true&theme=radical&include_all_commits=true" />
 </p>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAAR91&theme=dark" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAAR91&show_icons=true&theme=radical&include_all_commits=true&layout=donut-vertical" />
 </p>
 
 <p align="center">
@@ -47,4 +48,3 @@ A bit about me, I love to watch movies, play video games and music. I play the g
 
 <h2 align="center">I'm currenttly:</h2>
 <p align="center">Working as a Sr. Front End Developer at Unique Vacations Ltd.</p>
-  
